@@ -1,0 +1,12 @@
+v1.1.0
+- added/unpdated Jupyter Notebooks
+  - new 'sv_evaluate.ipynb' to evaluate (merged) SV callsets
+  - improved data selection in 'sv_compare.ipynb'
+  - install dependencies using conda 'environment.yaml' files
+
+- added two SV truth sets (deletions only):
+  - Personalis/1000 Genome Project data by Parikh et al. (2016)
+  - PacBio/Moleculo data by Layer et al. (2014)
+
+v1.0.0 - initial version
+
