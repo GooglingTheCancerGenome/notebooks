@@ -7,4 +7,4 @@ channels:
 dependencies:
   - jupyter
   - r-irkernel
-  - bioconductor-structuralvariantannotation=1.0
+  - bioconductor-structuralvariantannotation=1.2
