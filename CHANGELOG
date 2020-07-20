@@ -1,0 +1,18 @@
+v1.2.0
+- added reference genomes used
+- added results on new WGS samples: CHM1_CHM13 and NA24385
+- added new SV truth sets from dbVar: nstd137 and nstd167
+- updated Jupyter Notebooks
+
+v1.1.0
+- added/unpdated Jupyter Notebooks
+  - new 'sv_evaluate.ipynb' to evaluate (merged) SV callsets
+  - improved data selection in 'sv_compare.ipynb'
+  - install dependencies using conda 'environment.yaml' files
+
+- added two SV truth sets (deletions only):
+  - Personalis/1000 Genome Project data by Parikh et al. (2016)
+  - PacBio/Moleculo data by Layer et al. (2014)
+
+v1.0.0 - initial version
+
